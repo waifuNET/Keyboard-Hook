@@ -27,7 +27,7 @@ namespace Would
 
         public static void test(int key)
         {
-            MessageBox.Show("Нажата клавиша: " + key);
+            MessageBox.Show("Key pressed: " + key);
         }
     }
 }
